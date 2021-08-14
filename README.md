@@ -9,6 +9,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 - JQuery
-## 💻 Projeto
-
-No projeto são discutidas as etapas de desenvolvimento de jogos em HTML5, CSS3 e JavaScript do início ao fim.
